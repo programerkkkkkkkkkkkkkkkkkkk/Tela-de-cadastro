@@ -31,8 +31,8 @@ display:flex;
 
 .button{
     background-color: #871821;
-    width:13em;
-    height:2.1em;
+    width:13.5em;
+    height:3em;
     border-radius:5.5%;
     border-width: 0px;
 
@@ -45,5 +45,5 @@ border-right-style:none;
 border-top-style:none;
 border-left-style:none;
 border-bottom-width: 7%;
-
+width:65%;
 }
