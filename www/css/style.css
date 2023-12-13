@@ -13,10 +13,10 @@ grid-template-rows:repeat(3,auto);
 
 }
 
-body{height:100vh;
+body{height:98vh;
 align-items:center;
 display:flex;
-background-color: white;}
+}
 
 
 @font-face{
@@ -32,7 +32,7 @@ background-color: white;}
 .button{
     background-color: #871821;
     width:13em;
-    height:2em;
+    height:2.1em;
     border-radius:5.5%;
     border-width: 0px;
 
