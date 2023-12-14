@@ -13,10 +13,10 @@ grid-template-rows:repeat(3,auto);
 
 }
 
-body{height:98vh;
-align-items:center;
-display:flex;
-}
+body{background-color: white;
+height:98vh;
+align-items: center;
+display:flex;}
 
 
 @font-face{
@@ -48,3 +48,4 @@ border-bottom-width: 7%;
 width:65%;
 font-size:150%;
 }
+
